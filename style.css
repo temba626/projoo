@@ -100,8 +100,8 @@ body{
 
 .future-forecast{
     background: rgba(24,24,27,0.8);
-    padding: 25px;
-    position: fixed;
+    padding: 15px;
+    position: absolute;
     bottom: 0;
     display: flex;
     color:white;
@@ -162,6 +162,12 @@ body{
     font-weight: 100;
     font-size: 12px;
 }
+
+
+
+
+
+
 
 /*TO BE DELETED*/
 
